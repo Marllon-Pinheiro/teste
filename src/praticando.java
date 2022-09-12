@@ -6,10 +6,10 @@ public class praticando {
 		
 		Conta conta = new Conta();
 		Conta conta2 = new Conta();
-		Conta conta3 = new Conta();
-		Conta conta4 = new Conta();
 		
 		
+		
+		System.out.println("Total de contas é: "+ Conta.getTotalConta());
 		System.out.println("Total de contas é: "+ Conta.getTotalConta());
 		
 		
