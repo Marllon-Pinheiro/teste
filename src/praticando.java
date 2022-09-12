@@ -11,7 +11,7 @@ public class praticando {
 		
 		System.out.println("Total de contas é: "+ Conta.getTotalConta());
 		System.out.println("Total de contas é: "+ Conta.getTotalConta());
-		
+		System.out.println("Total de contas é: "+ Conta.getTotalConta());
 		
 		
 	}
